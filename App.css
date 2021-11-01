@@ -1,0 +1,25 @@
+body {
+    display: grid;
+    justify-content: center;
+    background-color: #adb5db;
+    margin-top: 100px  
+  }
+  #drum-machine {
+    width: 600px;
+    height: 300px;
+  }
+  
+  #pads{
+    width: 200px;
+    height: 200px
+  }
+  
+  #display {
+    background-color: #a8c9f9;
+    width: 40px;
+    height: 30px;
+    margin-top: 100px;
+    margin-right: 10px;
+  }
+  
+  button:active {background-color: #cfc9f9}
